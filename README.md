@@ -1,2 +1,2 @@
 # SoftUniExamTasks
-This are the tasks I had to solve for the exam!
+These are the tasks I had to solve for the exam!
